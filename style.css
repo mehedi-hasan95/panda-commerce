@@ -1,0 +1,56 @@
+.slide-bg {
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+
+.modify-btn {
+    background-image: linear-gradient(to bottom, #FF1F77, #FF4C94);
+    padding: 9px 25px;
+}
+
+.modify-card {
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+.c-m {
+    margin-bottom: 6rem;
+}
+
+.cat1 {
+    background-color: #FFA500;
+}
+
+.cat2 {
+    background-color: #DA70D6;
+}
+
+.cat3 {
+    background-color: #0000FF;
+}
+
+section.cat img {
+    width: 100px;
+}
+
+.product-shadow .card {
+    box-shadow: 5px 5px 10px #ededed;
+}
+
+.subscribe input.modify-btn.btn.border-0.fw-bold.text-white {
+    display: block;
+}
+
+.subscribe input#email {
+    display: block;
+    width: 100%;
+    padding: 10px 10px;
+    border-radius: 10px;
+    border: 1px solid #ced4da;
+}
+
+.subscribe input#email:focus {
+    color: #495057;
+    border-color: #80bdff;
+    outline: 0;
+    box-shadow: 0 0 0 .2rem rgba(0,123,255,.25);
+}
